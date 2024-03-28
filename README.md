@@ -3,6 +3,8 @@
 Please take a look at our [contribution guidelines](CONTRIBUTING.md) before
 getting started. Thanks!
 
+[![Codacy Security Scan](https://github.com/rajabhinav1/Abhinav/actions/workflows/codacy.yml/badge.svg)](https://github.com/rajabhinav1/Abhinav/actions/workflows/codacy.yml)
+
 <!-- Before submitting your code, please delete the above code contribution
 instructions and this comment as they will not be relevant in your code 
 example README.md.-->
